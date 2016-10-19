@@ -21,7 +21,7 @@ public class ballBehavior : MonoBehaviour {
             Debug.Log("hit floor");
             Vector3 temp = transform.position;
             temp.y = 10.0f;
-            transform.position = temp;
+           // transform.position = temp;
             count++;
         }
     }
