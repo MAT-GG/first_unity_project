@@ -3,3 +3,4 @@ Terrain_*.asset filter=lfs diff=lfs merge=lfs -text
 Assets/Terrain_Morea_smallsample.asset filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.TIF filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
